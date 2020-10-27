@@ -1,5 +1,4 @@
 ### Eai, aqui é o Gustavo Souza! ✌️
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-souza-silva/)](https://www.linkedin.com/in/gustavo-souza-silva/)
 
 Apaixonado por resolver problemas com tecnologia. 🚀
 
@@ -9,3 +8,6 @@ Um pouco sobre mim:
 - 🎯 .NET, Node JS
 - 🔭 Microsoft Azure, Docker, Kubernetes
 - 📚 Javascript, TypeScript, Angular
+
+Onde me encontrar ?
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-souza-silva/)](https://www.linkedin.com/in/gustavo-souza-silva/)
